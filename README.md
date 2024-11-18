@@ -14,3 +14,6 @@ This is a hack that you can use to toggle Qustodio Protection on and off on your
 
 <h2>Usage</h2>
 Whenever you want to toggle Qustodio, click on your shortcut, type in "start" or "stop" (without quotation marks), and when prompted to Run as Administrator, click Yes.
+
+<h2><b>!!!DISCLAIMER!!!</b></h2>
+<b>This hack is for educational purposes only.</b>
